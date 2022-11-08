@@ -1,0 +1,2 @@
+QUERY = "Q"
+PAGE = "P"
